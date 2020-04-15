@@ -9,8 +9,6 @@ using Microsoft.AspNetCore.Http.Features;
 using Microsoft.AspNetCore.Routing;
 using Microsoft.AspNetCore.Routing.Template;
 using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.DependencyInjection;
-using BaseMiddleware;
 
 namespace WorkerApi
 {
